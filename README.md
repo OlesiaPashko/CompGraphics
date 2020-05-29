@@ -2,7 +2,8 @@
 
 ## Repositary contains labs for Computer Graphics subject
 
-Gray transformation can be seen on pictures below.
+**Gray transformation** can be seen on pictures below.
+
 Before
 
 
