@@ -7,10 +7,37 @@
 Before
 
 
-![Before](Graphics/image.jpg)
+![Before](image.jpg)
 
 
 After
 
 
-![After](Graphics/AfterGrayTransformation.png)
+![After](AfterGrayTransformation.png)
+
+
+**Horizontally transformation** can be seen on pictures below.
+
+Before
+
+
+![Before](dog.jpg)
+
+
+After
+
+
+![After](horizontally_transformed_dog.png)
+
+**Maximum filter** can be seen on pictures below.
+
+Before
+
+
+![Before](dog.jpg)
+
+
+After
+
+
+![After](maximum_filtered_dog.png)
