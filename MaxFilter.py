@@ -5,16 +5,16 @@ from PIL import Image
 import numpy
 from scipy import ndimage
 
-def get_maximum_filtered_image(image, *, size):
+def getMaximumFilteredImage(image, *, size):
     return (
         maximum_filter(image, size)
     )
 
-def get_grayscaled_image(path_):
+def GetGrayscaledImage(path_):
     im = numpy.array(Image.open(path_).convert('L'))
     gray()
     return im
 
-image = get_grayscaled_image('dog.jpg')
-maximum_filtered_image = get_maximum_filtered_image(image, size=5)
-Image.fromarray(maximum_filtered_image.astype(numpy.uint8)).save( 'maximum_filtered_dog.jpg')
+image = GetGrayscaledImage('dog.jpg')
+maximum_filtered_image = getMaximumFilteredImage(image, size=5)
+Image.fromarray(maximum_filtered_image.astype(numpy.uint8)).save( 'MaximumFilteredDog.jpg')
