@@ -10,11 +10,18 @@ Before
 ![Before](image.jpg)
 
 
-After
+Negative
 
 
-![After](AfterGrayTransformation.png)
+![Negative](Negative.jpg)
 
+Gray in interval 
+
+![Gray in interval](GrayInterval.jpg)
+
+Gray
+
+![Gray](Gray.jpg)
 
 **Horizontally transformation** can be seen on pictures below.
 
