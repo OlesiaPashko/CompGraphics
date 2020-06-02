@@ -34,7 +34,7 @@ Before
 After
 
 
-![After](horizontally_transformed_dog.jpg)
+![After](HorizontallyTransformedDog.jpg)
 
 **Maximum filter** can be seen on pictures below.
 
@@ -47,4 +47,4 @@ Before
 After
 
 
-![After](maximum_filtered_dog.jpg)
+![After](MaximumFilteredDog.jpg)
